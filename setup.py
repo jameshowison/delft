@@ -17,7 +17,7 @@ setup(
         'regex==2021.11.10',
         'scikit-learn==1.0.1',
         'tqdm==4.62.3',
-        'tensorflow==2.9.3',
+        'tensorflow>=2.9.3',
         'h5py==3.6.0',
         'unidecode==1.3.2',
         'pydot==1.4.0',
@@ -28,7 +28,7 @@ setup(
         'requests>=2.20',
         'pandas==1.3.5',
         'pytest',
-        'tensorflow-addons==0.19.0'  
+        'tensorflow-addons>=0.19.0'  
     ],
     classifiers=[
         "Programming Language :: Python :: 3.8",
