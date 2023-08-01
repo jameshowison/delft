@@ -13,4 +13,3 @@ pandas
 transformers
 torch
 pytest
-tensorflow-addons
